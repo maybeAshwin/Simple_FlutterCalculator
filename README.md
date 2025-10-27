@@ -1,16 +1,23 @@
-# simplecalculator
+# 🧮 Simple Calculator App (Flutter)
 
-A new Flutter project.
+A clean, minimal, and fully functional **calculator app** built using **Flutter**.  
+This app performs basic arithmetic operations like addition, subtraction, multiplication, division, power, and percentage with a responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Preview
 
-A few resources to get you started if this is your first Flutter project:
+<img src="photo_2025-10-27_17-11-25.jpg" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+✅ Perform basic operations — `+`, `-`, `×`, `÷`, `%`, `^`  
+✅ Supports floating-point numbers (e.g., `42 × 45.7`)  
+✅ Prevents invalid input (like `--`, `**`, or trailing operators)  
+✅ Displays both expression and evaluated result  
+✅ Circular, modern buttons with elevation  
+✅ Responsive layout compatible with multiple screen sizes  
+✅ Clean and simple dark-themed UI
+
