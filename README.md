@@ -6,8 +6,10 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 ---
 
 ## 📱 Preview
+<p align="center">
+  <img src="calculatorReadme.jpg" width="300"/>
+</p>
 
-<img src="photo_2025-10-27_17-11-25.jpg" width="300"/>
 
 ---
 
